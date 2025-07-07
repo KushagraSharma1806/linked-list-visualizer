@@ -2,7 +2,8 @@
 
 An interactive, animated Linked List Visualizer built with **React**, **Tailwind CSS**, and **Framer Motion**. Designed to help students and developers visually understand the internal workings of Singly, Doubly, and Circular linked lists.
 
-![Visualizer Screenshot](./preview.png)
+![image](https://github.com/user-attachments/assets/51bf4e5d-ddda-448f-aa3a-f3beac95cb73)
+
 
 ## 🧠 Features
 
