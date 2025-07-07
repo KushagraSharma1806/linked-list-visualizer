@@ -17,8 +17,7 @@ An interactive, animated Linked List Visualizer built with **React**, **Tailwind
 
 ## 📸 Demo
 
-🔗 Live Preview: [https://linked-list-visualizer.vercel.app](https://linked-list-visualizer.vercel.app)
-
+🔗 Live Preview: https://linked-list-visualizer-7tpu.vercel.app/
 ## 🚀 Tech Stack
 
 - React (Vite)
